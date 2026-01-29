@@ -1,4 +1,4 @@
-# Machine Learning Algorithm for Human Micro-Expression Recognition
+# MER
 Code of My Undergraduate Thesis in [School of AI&CS, JNU](http://ai.jiangnan.edu.cn/) supervised by [Heng-Yang Lu](http://iip.nju.edu.cn/index.php/Luhy)
 ## 1. Four dilemmas in micro-expression recognition
 **No.1** Face diversity dilemma, specifically refers to the human face of different individuals, facial differences and different posture of the problem.
@@ -92,5 +92,5 @@ The final accuracy on CASME II dataset is about *50.8%*
 ## Appendix
 I want to thank the [open source code](https://github.com/zbxytx/Multi_feature_MER) & my supervisor [Heng-Yang Lu](http://iip.nju.edu.cn/index.php/Luhy) for the contribution to this Code
 
-***You can contact me if you have any questions by e-mail: weng_shihao@163.com***
+***You can contact me if you have any questions by e-mail: shihaoweng@outlook.com***
 
